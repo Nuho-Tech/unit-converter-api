@@ -1,0 +1,28 @@
+{
+  "name": "unit-converter-api",
+  "version": "1.0.0",
+  "description": "API para conversion de unidades",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuho-Tech/unit-converter-api.git"
+  },
+  "keywords": [
+    "api",
+    "unit",
+    "converter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nuho-Tech/unit-converter-api/issues"
+  },
+  "homepage": "https://github.com/Nuho-Tech/unit-converter-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

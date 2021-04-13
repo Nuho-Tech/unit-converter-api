@@ -1,0 +1,1 @@
+/* ****************** Aqui se debe programar la ruta que devolvera la pagina principal (www.dominio.com/) ****************** */
